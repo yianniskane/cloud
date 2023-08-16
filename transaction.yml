@@ -17,3 +17,5 @@ spring:
               create-source: metadata
     hibernate:
       ddl-auto: update
+    application:
+      name: transaction-service
