@@ -19,5 +19,3 @@ spring:
       ddl-auto: update
     application:
       name: transaction-service
-  autoconfigure:
-    exclude: org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
